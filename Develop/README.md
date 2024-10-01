@@ -1,8 +1,8 @@
-#  README_MAKER
+# README_GENERATOR
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
-Command-line application that generates a professional README file using user input and the Inquirer package in Node.js.
+A command-line application to generate a professional README file for a new project. The README will include essential sections such as description, installation instructions, usage, contribution guidelines, test instructions, license information, and contact details.
 
 ## Table of Contents
 - [Installation](#installation)
